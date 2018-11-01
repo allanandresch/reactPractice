@@ -1,2 +1,0 @@
-# reactPractice
-Created with CodeSandbox
